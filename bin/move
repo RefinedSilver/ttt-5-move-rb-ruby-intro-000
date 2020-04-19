@@ -8,5 +8,5 @@ board = [" "," "," "," "," "," "," "," "," "]
 input = gets.strip
 
 def input_to_index(input)
-  # input - 1 = index
+  input = index + 1
 end
